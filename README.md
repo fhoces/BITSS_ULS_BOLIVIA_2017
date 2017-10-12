@@ -28,13 +28,13 @@ Dia 1
 
 Hora | Sesión |
 ------------ | ------------- |
-2:00PM-3:30PM | Registros con el AEA registry y con el Open Science Framework|
+12:00PM-1:30PM | Registros con el AEA registry y con el Open Science Framework|
 
 
 Dia 2
 
 Hora | Sesión |
 ------------ | ------------- |
-8:30-10:00AM | Documentos Dinámicos con R (utilizando RMarkdown + breve referencia a Stata) |
-10:00-10:15 | COFFEE BREAK |
-10:30-12:00PM | Control de Versiones con Git y GitHub |
+9:00AM-10:30AM | Documentos Dinámicos con R (utilizando RMarkdown + breve referencia a Stata) |
+10:30AM-10:45AM | COFFEE BREAK |
+11:00-12:15PM | Control de Versiones con Git y GitHub |
