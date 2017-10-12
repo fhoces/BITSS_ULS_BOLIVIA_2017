@@ -1,8 +1,8 @@
 <!--YAML HEADER
 ---
 title : Introduccion a Git utilizando Github Desktop
-part of : BITSS PUC-Chile
-time : 3 hours
+part of : BITSS ULS-Bolivia
+time : 1.5 hours
 author: Garret Christensen
 affiliation: UC Berkeley
 ---
@@ -10,7 +10,7 @@ affiliation: UC Berkeley
 
 Taller de Git & GitHub Desktop
 ==============================
-BITSS PUC-Chile 2017
+BITSS ULS-Bolivia 2017
 ------------------------------
 Fernando Hoces de la Guardia
 
