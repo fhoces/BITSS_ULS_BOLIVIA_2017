@@ -24,11 +24,17 @@ Material adicional se puede encontrar en las carpetas-x.
 
 Agenda para el taller
 -----------
+Dia 1
 
 Hora | Sesión |
 ------------ | ------------- |
-9:00-10:15 | Registros con el AEA registry y con el Open Science Framework|
-10:15-10:30 | COFFEE BREAK |
-10:30-11:45 | Documentos Dinámicos con R (utilizando RMarkdown + breve referencia a Stata) |
-11:15-11:30 | COFFEE BREAK |
-12:00-13:00 | Control de Versiones con Git y GitHub |
+2:00PM-3:30PM | Registros con el AEA registry y con el Open Science Framework|
+
+
+Dia 2
+
+Hora | Sesión |
+------------ | ------------- |
+8:30-10:00AM | Documentos Dinámicos con R (utilizando RMarkdown + breve referencia a Stata) |
+10:00-10:15 | COFFEE BREAK |
+10:30-12:00PM | Control de Versiones con Git y GitHub |
