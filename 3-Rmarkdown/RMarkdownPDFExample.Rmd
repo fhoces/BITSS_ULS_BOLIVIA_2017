@@ -5,8 +5,8 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: pdf_document
 ---
 
-One Click! Knit PDF and you're done.
-===============================================================
+## One Click! Knit PDF and you're done.
+
 You only have to install a package once, but you have to load the library every time you want to use it. You'll see that a bunch of ugly commands and output gets displayed. You probably wouldn't really want that in your actual paper.
 
 ```{r, echo=FALSE, warning=FALSE, results='hide', message=FALSE}
@@ -24,7 +24,7 @@ lapply(list.of.packages, require, character.only = TRUE)
 Which is why you can turn off code (with echo=FALSE) and/or results (with results='hide'). You're not going to see anything from this chunk here: 
 
 <!-- Note that since Markdown (and R Markdown) is related to HTML, you can put comments in the non-code part of the doc with HTML comment syntax. --> 
-```{r, echo=FALSE, results='hide'}
+```{r, echo=FALSE, results='asis'}
 # Permanently set echo OFF!
 knitr::opts_chunk$set(echo=FALSE)
 pi<-3.14159
