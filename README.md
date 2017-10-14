@@ -8,7 +8,7 @@ Gracias a [Garret Christensen](http://www.ocf.berkeley.edu/~garret) por proveer 
 ### Materiales para el taller de reproducibilidad en ULS-Bolivia
 Las instrucciones requeridas para instalar el software necesario para el taller se encuentran [aquí](https://github.com/fhoces/BITSS_ULS_BOLIVIA_2017/tree/master/2-Registros#instalación-de-software).
 
-Los materiales del seminario y el taller se encuentran en éste repositorio. El repositorio contiene carpetas con la siguiente información:
+Los materiales del seminario y el taller se encuentran en este repositorio. El repositorio contiene carpetas con la siguiente información:
 
 1-Presentacion tiene la presentación del seminario.
 

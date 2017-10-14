@@ -2,7 +2,7 @@
 
 Fernando Hoces de la Guardia
 
-Berkeley Initiative for Transparency in the Social
+Berkeley Initiative for Transparency in the Social Sciences
 
 * Breve introducción ocupando la presentación de [Thomas Leeper](http://thomasleeper.com) de RT2 London. [Presntación aquí](https://osf.io/4ah58/).
 

@@ -2,7 +2,7 @@
 
 Fernando Hoces de la Guardia
 
-Berkeley Initiative for Transparency in the Social
+Berkeley Initiative for Transparency in the Social Sciences
 
 ----------
 
@@ -44,6 +44,7 @@ Esta seccion se basa principlamente en el turorial que  [Kaitlyn Werner](https:/
  * [Instalen R](https://cloud.r-project.org)
  * [Instalen RStudio](https://www.rstudio.com/products/rstudio/download/#download)
  * [Instalen Github Desktop](https://desktop.github.com)
+ * Descarguen [este archivo](https://github.com/fhoces/BITSS_ULS_BOLIVIA_2017/blob/master/3-Rmarkdown/3-Rmarkdown.zip) y descomprimanlo en su escritotio (hagan click en download)
  * Asegurence de tener un editor de texto en su computador.
 
    * **Windows:** Notepad
