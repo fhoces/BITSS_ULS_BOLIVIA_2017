@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  16 OCT 2017 12:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  16 OCT 2017 15:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1252,21 +1252,21 @@ LaTeX Warning: Label `AEAreg' multiply defined.
 )
 \openout1 = `BITSS-Intro-Slides.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 104.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 105.
 
  (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
@@ -1337,7 +1337,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box80
-Package hyperref Info: Link coloring OFF on input line 104.
+Package hyperref Info: Link coloring OFF on input line 105.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1347,56 +1347,56 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count171
 )
-LaTeX Info: Redefining \ref on input line 104.
-LaTeX Info: Redefining \pageref on input line 104.
-LaTeX Info: Redefining \nameref on input line 104.
+LaTeX Info: Redefining \ref on input line 105.
+LaTeX Info: Redefining \pageref on input line 105.
+LaTeX Info: Redefining \nameref on input line 105.
 
 (./BITSS-Intro-Slides.out) (./BITSS-Intro-Slides.out)
 \@outlinefile=\write5
 \openout5 = `BITSS-Intro-Slides.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 104.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 105.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 104.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 105.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/ptm/m/n on input line 104.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 104.
+(Font)                  OT1/cmss/m/n --> OT1/ptm/m/n on input line 105.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/phv/bx/n on input line 104.
+(Font)                  OT1/cmr/bx/n --> OT1/phv/bx/n on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/phv/bx/n on input line 104.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 104.
+(Font)                  OT1/cmr/bx/n --> OT1/phv/bx/n on input line 105.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/phv/m/n on input line 104.
+(Font)                  OT1/cmss/m/n --> OT1/phv/m/n on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/phv/m/n on input line 104.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 104.
+(Font)                  OT1/cmss/bx/n --> OT1/phv/m/n on input line 105.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/phv/m/it on input line 104.
+(Font)                  OT1/cmr/m/it --> OT1/phv/m/it on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/phv/m/it on input line 104.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 104.
+(Font)                  OT1/cmr/bx/it --> OT1/phv/m/it on input line 105.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 104.
+(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 104.
+(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 105.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/phv/m/n --> OT1/phv/bx/n on input line 104.
+(Font)                  OT1/phv/m/n --> OT1/phv/bx/n on input line 105.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/phv/m/it --> OT1/phv/bx/it on input line 104.
+(Font)                  OT1/phv/m/it --> OT1/phv/bx/it on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/ptm/bx/n on input line 104.
+(Font)                  OT1/cmss/bx/n --> OT1/ptm/bx/n on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/phv/bx/n --> OT1/phv/bx/n on input line 104.
+(Font)                  OT1/phv/bx/n --> OT1/phv/bx/n on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/phv/m/n --> OT1/phv/bx/n on input line 104.
+(Font)                  OT1/phv/m/n --> OT1/phv/bx/n on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/phv/m/it --> OT1/phv/bx/it on input line 104.
+(Font)                  OT1/phv/m/it --> OT1/phv/bx/it on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/pcr/m/n --> OT1/pcr/bx/n on input line 104.
+(Font)                  OT1/pcr/m/n --> OT1/pcr/bx/n on input line 105.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translato
 r-basic-dictionary/translator-basic-dictionary-English.dict
@@ -1422,63 +1422,63 @@ Dictionary: translator-numbers-dictionary, Language: English
 r-theorem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 104.
+LaTeX Info: Redefining \includegraphics on input line 105.
 
 (./BITSS-Intro-Slides.nav)
-LaTeX Font Info:    Try loading font information for U+msa on input line 108.
+LaTeX Font Info:    Try loading font information for U+msa on input line 109.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 108.
+LaTeX Font Info:    Try loading font information for U+msb on input line 109.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 108.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 109.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 108.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 109.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <6> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 108.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 109.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <5> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 108.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 108.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 109.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 109.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Overfull \vbox (11.93729pt too high) detected at line 108
+Overfull \vbox (11.93729pt too high) detected at line 109
  []
 
 
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
  <../Images/BITSSlogo.png>]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <20.74> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 137.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 138.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <14.4> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 137.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 138.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 137.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 138.
 
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [2
 
 ] (./BITSS-Intro-Slides.toc)
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [3
 
 ] (./BITSS-Intro-Slides.toc)
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [4
@@ -1487,7 +1487,7 @@ Overfull \vbox (61.2006pt too high) has occurred while \output is active []
 File: ../Images/BITSSlogo.png Graphic file (type png)
 
 <use ../Images/BITSSlogo.png>
-Package pdftex.def Info: ../Images/BITSSlogo.png used on input line 153.
+Package pdftex.def Info: ../Images/BITSSlogo.png used on input line 154.
 (pdftex.def)             Requested size: 364.19536pt x 364.19255pt.
  [5
 
@@ -1496,34 +1496,34 @@ Package pdftex.def Info: ../Images/BITSSlogo.png used on input line 153.
 File: ../Images/ecosystem.PNG Graphic file (type png)
 
 <use ../Images/ecosystem.PNG>
-Package pdftex.def Info: ../Images/ecosystem.PNG used on input line 164.
+Package pdftex.def Info: ../Images/ecosystem.PNG used on input line 165.
 (pdftex.def)             Requested size: 364.19536pt x 163.72975pt.
  [6
 
  <../Images/ecosystem.PNG>]
 (./BITSS-Intro-Slides.toc)
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [7
 
 ]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 187.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 188.
 
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [8
 
 ]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [9
 
 ]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [10
@@ -1532,7 +1532,7 @@ Overfull \vbox (61.2006pt too high) has occurred while \output is active []
 File: ../Images/AMdV2007.PNG Graphic file (type png)
 
 <use ../Images/AMdV2007.PNG>
-Package pdftex.def Info: ../Images/AMdV2007.PNG used on input line 251.
+Package pdftex.def Info: ../Images/AMdV2007.PNG used on input line 252.
 (pdftex.def)             Requested size: 364.19536pt x 234.07016pt.
  [11
 
@@ -1541,25 +1541,25 @@ Package pdftex.def Info: ../Images/AMdV2007.PNG used on input line 251.
 File: ../Images/PrelecFig1.PNG Graphic file (type png)
 
 <use ../Images/PrelecFig1.PNG>
-Package pdftex.def Info: ../Images/PrelecFig1.PNG used on input line 261.
+Package pdftex.def Info: ../Images/PrelecFig1.PNG used on input line 262.
 (pdftex.def)             Requested size: 340.7544pt x 273.14662pt.
  [12
 
  <../Images/PrelecFig1.PNG>]
 (./BITSS-Intro-Slides.toc)
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [13
 
 ]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [14
 
 ]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [15
@@ -1568,7 +1568,7 @@ Overfull \vbox (61.2006pt too high) has occurred while \output is active []
 File: ../Images/TurnerFigure1.PNG Graphic file (type png)
 
 <use ../Images/TurnerFigure1.PNG>
-Package pdftex.def Info: ../Images/TurnerFigure1.PNG used on input line 338.
+Package pdftex.def Info: ../Images/TurnerFigure1.PNG used on input line 339.
 (pdftex.def)             Requested size: 258.5102pt x 273.14662pt.
  [16
 
@@ -1577,7 +1577,7 @@ Package pdftex.def Info: ../Images/TurnerFigure1.PNG used on input line 338.
 File: ../Images/Tess.PNG Graphic file (type png)
 
 <use ../Images/Tess.PNG>
-Package pdftex.def Info: ../Images/Tess.PNG used on input line 348.
+Package pdftex.def Info: ../Images/Tess.PNG used on input line 349.
 (pdftex.def)             Requested size: 259.77731pt x 273.14662pt.
  [17
 
@@ -1586,7 +1586,7 @@ Package pdftex.def Info: ../Images/Tess.PNG used on input line 348.
 File: ../Images/Brodeur.PNG Graphic file (type png)
 
 <use ../Images/Brodeur.PNG>
-Package pdftex.def Info: ../Images/Brodeur.PNG used on input line 358.
+Package pdftex.def Info: ../Images/Brodeur.PNG used on input line 359.
 (pdftex.def)             Requested size: 397.43787pt x 273.14662pt.
  [18
 
@@ -1595,7 +1595,7 @@ Package pdftex.def Info: ../Images/Brodeur.PNG used on input line 358.
 File: ../Images/GerberSoc.PNG Graphic file (type png)
 
 <use ../Images/GerberSoc.PNG>
-Package pdftex.def Info: ../Images/GerberSoc.PNG used on input line 368.
+Package pdftex.def Info: ../Images/GerberSoc.PNG used on input line 369.
 (pdftex.def)             Requested size: 321.20561pt x 273.14662pt.
  [19
 
@@ -1604,24 +1604,24 @@ Package pdftex.def Info: ../Images/GerberSoc.PNG used on input line 368.
 File: ../Images/GerberPS.PNG Graphic file (type png)
 
 <use ../Images/GerberPS.PNG>
-Package pdftex.def Info: ../Images/GerberPS.PNG used on input line 378.
+Package pdftex.def Info: ../Images/GerberPS.PNG used on input line 379.
 (pdftex.def)             Requested size: 381.07413pt x 273.14662pt.
  [20
 
  <../Images/GerberPS.PNG>]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [21
 
 ]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [22
 
 ]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [23
@@ -1631,12 +1631,12 @@ File: ../Images/combinedAEARegGraphs.png Graphic file (type png)
 
 <use ../Images/combinedAEARegGraphs.png>
 Package pdftex.def Info: ../Images/combinedAEARegGraphs.png used on input line 
-437.
+438.
 (pdftex.def)             Requested size: 375.58353pt x 273.14662pt.
  [24
 
  <../Images/combinedAEARegGraphs.png (PNG copy)>]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [25
@@ -1645,48 +1645,48 @@ Overfull \vbox (61.2006pt too high) has occurred while \output is active []
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.461      \end{frame}
+l.462      \end{frame}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{AEAreg}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.461      \end{frame}
+l.462      \end{frame}
                       
 <../Images/results_blind_review.png, id=837, 2033.5975pt x 1437.37pt>
 File: ../Images/results_blind_review.png Graphic file (type png)
 
 <use ../Images/results_blind_review.png>
 Package pdftex.def Info: ../Images/results_blind_review.png used on input line 
-461.
+462.
 (pdftex.def)             Requested size: 386.4496pt x 273.14662pt.
  [26
 
  <../Images/results_blind_review.png>]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [27
 
 ]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [28
 
 ] (./BITSS-Intro-Slides.toc)
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [29
 
 ]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [30
 
 ]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [31
@@ -1695,51 +1695,51 @@ Overfull \vbox (61.2006pt too high) has occurred while \output is active []
 File: ../Images/Crowdsourcing2.PNG Graphic file (type png)
 
 <use ../Images/Crowdsourcing2.PNG>
-Package pdftex.def Info: ../Images/Crowdsourcing2.PNG used on input line 523.
+Package pdftex.def Info: ../Images/Crowdsourcing2.PNG used on input line 524.
 (pdftex.def)             Requested size: 364.19536pt x 256.3694pt.
  [32
 
  <../Images/Crowdsourcing2.PNG>]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 531.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 532.
 
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [33
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 548.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 549.
 
  (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsphv.fd
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 548.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 549.
 
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [34
 
 ]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [35
 
 ]
-Overfull \vbox (3.6273pt too high) detected at line 601
+Overfull \vbox (3.6273pt too high) detected at line 602
  []
 
 
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [36
 
 ]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [37
@@ -1748,7 +1748,7 @@ Overfull \vbox (61.2006pt too high) has occurred while \output is active []
 File: ../Images/GoBifo1.PNG Graphic file (type png)
 
 <use ../Images/GoBifo1.PNG>
-Package pdftex.def Info: ../Images/GoBifo1.PNG used on input line 651.
+Package pdftex.def Info: ../Images/GoBifo1.PNG used on input line 652.
 (pdftex.def)             Requested size: 364.19536pt x 220.71484pt.
  [38
 
@@ -1757,12 +1757,12 @@ Package pdftex.def Info: ../Images/GoBifo1.PNG used on input line 651.
 File: ../Images/preregchallenge.png Graphic file (type png)
 
 <use ../Images/preregchallenge.png>
-Package pdftex.def Info: ../Images/preregchallenge.png used on input line 662.
+Package pdftex.def Info: ../Images/preregchallenge.png used on input line 663.
 (pdftex.def)             Requested size: 364.19536pt x 294.36113pt.
  [39
 
  <../Images/preregchallenge.png>]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [40
@@ -1771,19 +1771,19 @@ Overfull \vbox (61.2006pt too high) has occurred while \output is active []
 File: ../Images/Neumark.PNG Graphic file (type png)
 
 <use ../Images/Neumark.PNG>
-Package pdftex.def Info: ../Images/Neumark.PNG used on input line 682.
+Package pdftex.def Info: ../Images/Neumark.PNG used on input line 683.
 (pdftex.def)             Requested size: 364.19536pt x 195.22923pt.
  [41
 
  <../Images/Neumark.PNG>]
 (./BITSS-Intro-Slides.toc)
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [42
 
 ]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [43
@@ -1792,23 +1792,23 @@ Overfull \vbox (61.2006pt too high) has occurred while \output is active []
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.708      \end{frame}
+l.704      \end{frame}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{AEAreg}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.708      \end{frame}
+l.704      \end{frame}
                       
 <../Images/JMCB1.PNG, id=1449, 383.93437pt x 170.88844pt>
 File: ../Images/JMCB1.PNG Graphic file (type png)
 
 <use ../Images/JMCB1.PNG>
-Package pdftex.def Info: ../Images/JMCB1.PNG used on input line 708.
+Package pdftex.def Info: ../Images/JMCB1.PNG used on input line 704.
 (pdftex.def)             Requested size: 364.19536pt x 162.11362pt.
  [44
 
  <../Images/JMCB1.PNG>]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [45
@@ -1817,38 +1817,38 @@ Overfull \vbox (61.2006pt too high) has occurred while \output is active []
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.729      \end{frame}
+l.725      \end{frame}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{AEAreg}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.729      \end{frame}
+l.725      \end{frame}
                       
 <../Images/TOPGuidelines.PNG, id=1500, 633.11531pt x 430.60875pt>
 File: ../Images/TOPGuidelines.PNG Graphic file (type png)
 
 <use ../Images/TOPGuidelines.PNG>
-Package pdftex.def Info: ../Images/TOPGuidelines.PNG used on input line 729.
+Package pdftex.def Info: ../Images/TOPGuidelines.PNG used on input line 725.
 (pdftex.def)             Requested size: 364.19536pt x 247.7098pt.
  [46
 
  <../Images/TOPGuidelines.PNG>]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [47
 
 ]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 751.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 747.
 
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [48
 
 ]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [49
@@ -1857,19 +1857,19 @@ Overfull \vbox (61.2006pt too high) has occurred while \output is active []
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.778      \end{frame}
+l.774      \end{frame}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{AEAreg}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.778      \end{frame}
+l.774      \end{frame}
                       
 <../Images/github-logo-transparent.JPG, id=1634, 513.92pt x 513.92pt>
 File: ../Images/github-logo-transparent.JPG Graphic file (type jpg)
 
 <use ../Images/github-logo-transparent.JPG>
 Package pdftex.def Info: ../Images/github-logo-transparent.JPG used on input li
-ne 778.
+ne 774.
 (pdftex.def)             Requested size: 273.15263pt x 273.14662pt.
  [50
 
@@ -1878,7 +1878,7 @@ pt x 541.27219pt>
 File: ../Images/OSFnow.PNG Graphic file (type png)
 
 <use ../Images/OSFnow.PNG>
-Package pdftex.def Info: ../Images/OSFnow.PNG used on input line 788.
+Package pdftex.def Info: ../Images/OSFnow.PNG used on input line 784.
 (pdftex.def)             Requested size: 364.19536pt x 272.76628pt.
  [51
 
@@ -1887,12 +1887,12 @@ Package pdftex.def Info: ../Images/OSFnow.PNG used on input line 788.
 File: ../Images/OSFsoon.PNG Graphic file (type png)
 
 <use ../Images/OSFsoon.PNG>
-Package pdftex.def Info: ../Images/OSFsoon.PNG used on input line 798.
+Package pdftex.def Info: ../Images/OSFsoon.PNG used on input line 794.
 (pdftex.def)             Requested size: 364.19536pt x 273.61697pt.
  [52
 
  <../Images/OSFsoon.PNG>]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [53
@@ -1901,17 +1901,17 @@ Overfull \vbox (61.2006pt too high) has occurred while \output is active []
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.826      \end{frame}
+l.822      \end{frame}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{AEAreg}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.826      \end{frame}
+l.822      \end{frame}
                        <../Images/jupyter.png, id=1696, 441.65pt x 441.65pt>
 File: ../Images/jupyter.png Graphic file (type png)
 
 <use ../Images/jupyter.png>
-Package pdftex.def Info: ../Images/jupyter.png used on input line 826.
+Package pdftex.def Info: ../Images/jupyter.png used on input line 822.
 (pdftex.def)             Requested size: 273.15973pt x 273.14662pt.
  [54
 
@@ -1919,80 +1919,80 @@ Package pdftex.def Info: ../Images/jupyter.png used on input line 826.
 ifier (name{AEAreg<1>}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.836      \end{frame}
+l.832      \end{frame}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{AEAreg}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.836      \end{frame}
+l.832      \end{frame}
                       
 <../Images/RStudio-Logo-Blue-Gradient.png, id=1702, 2007.5pt x 704.6325pt>
 File: ../Images/RStudio-Logo-Blue-Gradient.png Graphic file (type png)
 
 <use ../Images/RStudio-Logo-Blue-Gradient.png>
 Package pdftex.def Info: ../Images/RStudio-Logo-Blue-Gradient.png used on input
- line 836.
+ line 832.
 (pdftex.def)             Requested size: 364.19536pt x 127.8283pt.
  [55
 
  <../Images/RStudio-Logo-Blue-Gradient.png>]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [56
 
 ] (./BITSS-Intro-Slides.toc)
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [57
 
 ]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [58
 
 ]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [59
 
 ]
-Overfull \hbox (9.50401pt too wide) in paragraph at lines 1026--1026
+Overfull \hbox (9.50401pt too wide) in paragraph at lines 1022--1022
 [][][][]\OT1/phv/m/n/10.95 Researchers 
  []
 
 
-Overfull \hbox (97.0824pt too wide) in paragraph at lines 1026--1026
+Overfull \hbox (97.0824pt too wide) in paragraph at lines 1022--1022
  |  [] 
  []
 
 
 Class beamer Warning: Frame text is shrunk by a factor of 56.67267 percent inst
-ead of 30 percent on input line 1026.
+ead of 30 percent on input line 1022.
 
 
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [60
 
 ]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [61
 
 ] (./BITSS-Intro-Slides.toc)
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [62
 
 ]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [63
@@ -2002,15 +2002,15 @@ File: ../Images/bitss-2014-cohort2.jpg Graphic file (type jpg)
 
 <use ../Images/bitss-2014-cohort2.jpg>
 Package pdftex.def Info: ../Images/bitss-2014-cohort2.jpg used on input line 10
-63.
+59.
 (pdftex.def)             Requested size: 289.07999pt x 149.91087pt.
 
-Overfull \hbox (0.76822pt too wide) in paragraph at lines 1063--1063
+Overfull \hbox (0.76822pt too wide) in paragraph at lines 1059--1059
 \OT1/phv/m/n/10.95 '[]  
  []
 
 
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [64
@@ -2020,14 +2020,14 @@ Overfull \vbox (61.2006pt too high) has occurred while \output is active []
 File: ../Images/LRwinners.jpg Graphic file (type jpg)
 
 <use ../Images/LRwinners.jpg>
-Package pdftex.def Info: ../Images/LRwinners.jpg used on input line 1075.
+Package pdftex.def Info: ../Images/LRwinners.jpg used on input line 1071.
 (pdftex.def)             Requested size: 180.67499pt x 135.5015pt.
 
-Overfull \vbox (25.07298pt too high) detected at line 1075
+Overfull \vbox (25.07298pt too high) detected at line 1071
  []
 
 
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [65
@@ -2037,17 +2037,17 @@ Overfull \vbox (61.2006pt too high) has occurred while \output is active []
 File: ../Images/leamer1-zoomed33.jpg Graphic file (type jpg)
 
 <use ../Images/leamer1-zoomed33.jpg>
-Package pdftex.def Info: ../Images/leamer1-zoomed33.jpg used on input line 1086
+Package pdftex.def Info: ../Images/leamer1-zoomed33.jpg used on input line 1082
 .
 (pdftex.def)             Requested size: 180.67499pt x 104.19269pt.
 
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [66
 
  <../Images/leamer1-zoomed33.jpg>]
-Overfull \vbox (61.2006pt too high) has occurred while \output is active []
+Overfull \vbox (103.2006pt too high) has occurred while \output is active []
 
 
 [67
@@ -2062,14 +2062,14 @@ Overfull \vbox (61.2006pt too high) has occurred while \output is active []
 \tf@snm=\write8
 \openout8 = `BITSS-Intro-Slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1099.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1099.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1095.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1095.
  (./BITSS-Intro-Slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1099.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1099.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1095.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1095.
 
 Package rerunfilecheck Info: File `BITSS-Intro-Slides.out' has not changed.
-(rerunfilecheck)             Checksum: F8B8632D0D079439D7758F049F3BD161;422.
+(rerunfilecheck)             Checksum: 7C5A54ED20495533B04FC87C4F2105C2;503.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -2078,7 +2078,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  24725 strings out of 492995
  514821 string characters out of 6132704
- 637931 words of memory out of 5000000
+ 638083 words of memory out of 5000000
  27493 multiletter control sequences out of 15000+600000
  41025 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2094,7 +2094,7 @@ e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
 xmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2017/texmf-dis
 t/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts
 /type1/urw/helvetic/uhvro8a.pfb>
-Output written on BITSS-Intro-Slides.pdf (67 pages, 5520632 bytes).
+Output written on BITSS-Intro-Slides.pdf (67 pages, 5523550 bytes).
 PDF statistics:
  2300 PDF objects out of 2487 (max. 8388607)
  2133 compressed objects within 22 object streams

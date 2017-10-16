@@ -1,8 +1,8 @@
 \select@language {english}
 \beamer@sectionintoc {1}{Introducci\IeC {\'o}n}{4}{0}{1}
 \beamer@sectionintoc {2}{\IeC {\'E}tica en la Investigaci\IeC {\'o}n Cient\IeC {\'\i }fica}{7}{0}{2}
-\beamer@sectionintoc {3}{Registros}{13}{0}{3}
-\beamer@sectionintoc {4}{Planes de Pre-An\IeC {\'a}lisis}{29}{0}{4}
-\beamer@sectionintoc {5}{Replicaciones}{42}{0}{5}
+\beamer@sectionintoc {3}{Sesgo de Publicaci\IeC {\'o}n --- Registros}{13}{0}{3}
+\beamer@sectionintoc {4}{P-Hacking --- Planes de Pre-An\IeC {\'a}lisis}{29}{0}{4}
+\beamer@sectionintoc {5}{Replicaciones Fallidas --- Pautas \& Protocolos}{42}{0}{5}
 \beamer@sectionintoc {6}{Lecciones Para el An\IeC {\'a}lisis de Pol\IeC {\'\i }ticas P\IeC {\'u}blicas}{57}{0}{6}
 \beamer@sectionintoc {7}{Conclusi\IeC {\'o}n}{62}{0}{7}
