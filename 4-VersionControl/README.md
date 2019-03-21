@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 <!--YAML HEADER
 ---
 title : Introduccion a Git utilizando Github Desktop
